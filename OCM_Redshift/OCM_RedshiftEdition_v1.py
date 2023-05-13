@@ -11,7 +11,7 @@ def OCM_Redshift():
     print ("""
     
 ----------------------------------
-One click Material for Redshift v3
+One click Material for Redshift v1
 ----------------------------------
 """)
 
