@@ -1,10 +1,6 @@
-# Fuchs Tools
-
-**One Click Material For Maya 2023 - Redshift Edition**
+# One Click Material For Maya 2023 - Redshift Edition
 
 Instantly assemble almost any material you cross in your path into a single shader! Just 1 click away.
-
-
 
 ![Image](https://user-images.githubusercontent.com/104402512/238112780-88913a52-ad0a-43cc-8113-56daf604fbd6.gif)
 
