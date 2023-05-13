@@ -18,7 +18,7 @@ Instantly assemble almost any material you cross in your path into a single shad
 
 ## Works with:
 
-Color, Roughness, Metalness, Ambient Occlusion, Normal, RMO and Displacement.
+Color, Roughness, Metalness, Ambient Occlusion, Normal, RMO and Displacement. (Automatically targets name variants, like "diffuse" or "Albedo" or "Metallic", etc)
 
 If map is not recognized, it is filtered out.
 
