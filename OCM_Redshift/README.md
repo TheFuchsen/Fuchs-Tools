@@ -1,4 +1,8 @@
-# One Click Material For Maya 2023 - Redshift Edition
+# OBSOLETE, DO NOT USE - One Click Material For Maya 2023 - Redshift Edition -
+
+
+USE OCP INSTEAD: (Temp link)
+
 
 Instantly assemble almost any material you cross in your path into a single shader! Just 1 click away.
 
