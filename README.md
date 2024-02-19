@@ -46,19 +46,32 @@ This can also be done better with Mesh Parameters but I've gotten used to this.
 
 ## Alembic Tools
 
+![image](https://github.com/TheFuchsen/Fuchs-Tools/assets/104402512/7bbc8d5f-ef05-47ea-8529-7b90492e2998)
+
 ### Alembic Shortcuts
+
+![image](https://github.com/TheFuchsen/Fuchs-Tools/assets/104402512/54619e8c-48be-4efc-b4d9-72a78e20438b)
+
+We do a lot of our pipeline around Alembics, so having quick access to these options is vital. 
+First button allows expor
 
 ### Alembic Blendshapes
 
 ## Animation Helpers
 
+![image](https://github.com/TheFuchsen/Fuchs-Tools/assets/104402512/1627f3ce-ab18-4233-94fa-cff68444913a)
+
 ### Toggle Evaluation
+
+![image](https://github.com/TheFuchsen/Fuchs-Tools/assets/104402512/67c5a784-4426-43fd-9738-2570b9458110)
+
+Quick shortcut to switch between parallel and DG evaluation mode. 
 
 ### Timeline Snap
 
-Toggles Frame Snap in the timeline.  Incredibly usefull when animating for motion blur.
-
 ![image](https://github.com/TheFuchsen/Fuchs-Tools/assets/104402512/68a3c923-63e1-45ae-9ad0-169d53dc7bdb)
+
+Toggles Frame Snap in the timeline.  Incredibly usefull when animating for motion blur.
 
 ![maya_tQxUQz2u4k](https://github.com/TheFuchsen/Fuchs-Tools/assets/104402512/937d8c54-505c-48f7-87c0-f686dfe8494d)
 
