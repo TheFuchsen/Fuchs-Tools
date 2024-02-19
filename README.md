@@ -46,30 +46,35 @@ This can also be done better with Mesh Parameters but I've gotten used to this.
 
 ## Alembic Tools
 
-![image](https://github.com/TheFuchsen/Fuchs-Tools/assets/104402512/7bbc8d5f-ef05-47ea-8529-7b90492e2998)
-
 ### Alembic Shortcuts
 
-![image](https://github.com/TheFuchsen/Fuchs-Tools/assets/104402512/54619e8c-48be-4efc-b4d9-72a78e20438b)
+![AlembicExport](https://github.com/TheFuchsen/Fuchs-Tools/assets/104402512/55207e74-9cdd-45e5-b6d6-b5b120814651)![AlembicImport](https://github.com/TheFuchsen/Fuchs-Tools/assets/104402512/11380e0e-d75c-46b5-b8ff-a8e210f52c2e)![AlembicUpdate](https://github.com/TheFuchsen/Fuchs-Tools/assets/104402512/ca13eb4f-e7c2-4cc5-bf16-2c0b29153472)
 
 We do a lot of our pipeline around Alembics, so having quick access to these options is vital. 
-First button allows expor
+
+1. Export Alembic Cache: Exports selected geometry as an alembic file
+2. Import: This is just the import button. We use it to import alembics :D
+3. Update alembic: This is a tricky one. By default, "Replace Alembic" just deletes your original geo and reimports your alembic. However, there is a special setting in the "import alembic" button that allows you to just create a new alembic node into existing geometry, efectively allowing you to update the alembic file that's driving your geo. It is already pre configured. 
 
 ### Alembic Blendshapes
 
-## Animation Helpers
+![AlembicBlender](https://github.com/TheFuchsen/Fuchs-Tools/assets/104402512/204f7224-af50-43ca-a23a-77c2ac798e04)
 
-![image](https://github.com/TheFuchsen/Fuchs-Tools/assets/104402512/1627f3ce-ab18-4233-94fa-cff68444913a)
+Given a source and target, creates a blendshape between multiple geometries. Usefull to link animation Alembic with Lookdev geo or simulation hosts.
+
+
+
+## Animation Helpers
 
 ### Toggle Evaluation
 
-![image](https://github.com/TheFuchsen/Fuchs-Tools/assets/104402512/67c5a784-4426-43fd-9738-2570b9458110)
+![EvaDG](https://github.com/TheFuchsen/Fuchs-Tools/assets/104402512/98a73daa-1394-4694-b21f-f512b9c5fc1c)![EvaParallel](https://github.com/TheFuchsen/Fuchs-Tools/assets/104402512/707582a3-e9c3-4cc5-b660-06dd28c2182b)
 
 Quick shortcut to switch between parallel and DG evaluation mode. 
 
 ### Timeline Snap
 
-![image](https://github.com/TheFuchsen/Fuchs-Tools/assets/104402512/68a3c923-63e1-45ae-9ad0-169d53dc7bdb)
+![TimeFloat](https://github.com/TheFuchsen/Fuchs-Tools/assets/104402512/f83f2214-c9fd-4a8c-9a8f-26b562d60761)![TimeInt](https://github.com/TheFuchsen/Fuchs-Tools/assets/104402512/758b71a9-4560-4d72-9d07-621c42d82640)
 
 Toggles Frame Snap in the timeline.  Incredibly usefull when animating for motion blur.
 
@@ -77,7 +82,7 @@ Toggles Frame Snap in the timeline.  Incredibly usefull when animating for motio
 
 ### Playback Step
 
-![image](https://github.com/TheFuchsen/Fuchs-Tools/assets/104402512/1ac7293c-cc32-4f90-bc2f-c5d534cfa9ad)
+![FrameHalf](https://github.com/TheFuchsen/Fuchs-Tools/assets/104402512/aa59726a-3173-467a-a2da-0fbde60cb44c)![FrameFull](https://github.com/TheFuchsen/Fuchs-Tools/assets/104402512/05ba8e08-3296-4185-8460-eed1278ec4ed)
 
 Little script that allows to change the playback step from 1.0 to 0.5 (Will add 0.25 in the future). Very handy for limited subframe exports (Like alembic)
 
